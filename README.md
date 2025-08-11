@@ -1,5 +1,5 @@
 # Challenge Amigo Secreto
-https://github.com/user-attachments/assets/a39b8c9f-b04e-4459-8ac1-d78f0d808335
+<img width="1913" height="962" alt="Image" src="https://github.com/user-attachments/assets/a39b8c9f-b04e-4459-8ac1-d78f0d808335" />
 
 Este proyecto es una aplicación web sencilla para realizar el sorteo de un amigo secreto entre un grupo de personas.
 
