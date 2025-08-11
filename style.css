@@ -1,11 +1,11 @@
 :root {
-    --color-primary: #4B69FD;
+    --color-primary: #6480fdd1;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #C4C4C4;
-    --color-button: #fe652b;
+    --color-tertiary: #ff5b5b;
+    --color-button: #000000;
     --color-button-hover: #e55720;
-    --color-text: #444444;
-    --color-white: #FFFFFF;
+    --color-text: #0d0d0d;
+    --color-white: #fbfbfb;
 }
 
 /* Estilos generales */
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #05DF05;
+    color: #cc1777;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
