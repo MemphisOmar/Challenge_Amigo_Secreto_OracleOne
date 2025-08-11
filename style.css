@@ -4,7 +4,7 @@
     --color-tertiary: #12883e;
     --color-button: #12883e;
     --color-button-hover: #12883e;
-    --color-text: #ffffff;
+    --color-text: #000000;
     --color-white: #fbfbfb;
 }
 
@@ -21,6 +21,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-weight: bold;
 }
 
 .main-content {
@@ -28,6 +29,7 @@ body {
     flex-direction: column;
     height: 100%;
     width: 100%;
+    font-weight: bold;
 }
 
 /* Banner */
@@ -37,6 +39,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 40px 0 0;
+    font-weight: bold;
 }
 
 /* Sección de entrada */
@@ -50,6 +53,7 @@ body {
     align-items: center;
     padding: 20px;
     width: 100%;
+    font-weight: bold;
 }
 
 /* Títulos */
@@ -59,6 +63,7 @@ body {
     font-weight: 900;
     font-style: italic;
     color: var(--color-white);
+    font-weight: bold;
 }
 
 .section-title {
@@ -68,6 +73,7 @@ body {
     color: var(--color-primary);
     margin: 10px 0;
     text-align: center;
+    font-weight: bold;
 }
 
 /* Contenedores de entrada y botón */
@@ -77,6 +83,7 @@ body {
     width: 100%;
     max-width: 600px;
     margin-top: 20px;
+    font-weight: bold;
 }
 
 .input-name {
@@ -85,11 +92,13 @@ body {
     border: 2px solid #000;
     border-radius: 25px 0 0 25px;
     font-size: 16px;
+    font-weight: bold;
 }
 
 .button-container {
     width: 300px;
     justify-content: center;
+    font-weight: bold;
 }
 
 /* Estilos de entrada de texto */
@@ -102,6 +111,7 @@ body {
     border-radius: 25px 0 0 25px;
     font-family: "Merriweather", serif;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    font-weight: bold;
 }
 
 /* Estilos de botón */
@@ -113,16 +123,19 @@ button {
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+    font-weight: bold;
 }
 
 .button-add {
     background-color: var(--color-tertiary);
     color: var(--color-text);
     border-radius: 0 25px 25px 0;
+    font-weight: bold;
 }
 
 .button-add:hover {
     background-color: #a1a1a1;
+    font-weight: bold;
 }
 
 /* Listas */
@@ -132,6 +145,7 @@ ul {
     font-family: "Inter", sans-serif;
     font-size: 18px;
     margin: 20px 0;
+    font-weight: bold;
 }
 
 .result-list {
@@ -151,12 +165,15 @@ ul {
     color: var(--color-white);
     background-color: var(--color-button);
     font-size: 16px;
+    font-weight: bold;
 }
 
 .button-draw img {
     margin-right: 40px;
+    font-weight: bold;
 }
 
 .button-draw:hover {
     background-color: var(--color-button-hover);
+    font-weight: bold;
 }
