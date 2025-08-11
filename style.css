@@ -1,10 +1,10 @@
 :root {
-    --color-primary: #6480fdd1;
+    --color-primary: #12883e;
     --color-secondary: #FFF9EB;
-    --color-tertiary: #ff5b5b;
-    --color-button: #000000;
-    --color-button-hover: #e55720;
-    --color-text: #0d0d0d;
+    --color-tertiary: #12883e;
+    --color-button: #12883e;
+    --color-button-hover: #12883e;
+    --color-text: #ffffff;
     --color-white: #fbfbfb;
 }
 
@@ -136,7 +136,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #cc1777;
+    color: #0fd156;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
